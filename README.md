@@ -21,4 +21,8 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/FahadOSD/LeetCode/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/FahadOSD/LeetCode/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
