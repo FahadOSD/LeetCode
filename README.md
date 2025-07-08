@@ -28,4 +28,16 @@ A collection of LeetCode problems and my solutions.
 | [0183-customers-who-never-order](https://github.com/FahadOSD/LeetCode/tree/master/0183-customers-who-never-order) |
 | [1415-students-and-examinations](https://github.com/FahadOSD/LeetCode/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/FahadOSD/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/FahadOSD/LeetCode/tree/master/1708-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/FahadOSD/LeetCode/tree/master/1708-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/FahadOSD/LeetCode/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
