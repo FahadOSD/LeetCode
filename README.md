@@ -31,6 +31,7 @@ A collection of LeetCode problems and my solutions.
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/FahadOSD/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1708-design-parking-system](https://github.com/FahadOSD/LeetCode/tree/master/1708-design-parking-system) |
 ## Simulation
 |  |
@@ -40,4 +41,12 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/FahadOSD/LeetCode/tree/master/1708-design-parking-system) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/FahadOSD/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/FahadOSD/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
